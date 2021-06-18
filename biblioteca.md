@@ -54,3 +54,13 @@ En esta tabla se guardan las publicaciones. Estas pueden ser libros, revistas, a
 | int          |    numero_paginas    |  No  | numero de páginas de la publicación                                           |
 | varchar(150) |       archivo        |  Si  | nombre del archivo de la publicación. (solo archivos con extension pdf)       |
 | varchar(200) |         link         |  Si  | link a un sitio web de la publicación                                         |
+
+### Tabla **publicaciones_autores**
+
+En esta tabla se define el la relación N:N de las tablas publicaciones y autores, donde uno o mas autores pueden tener una o mas publicaciones, como una o mas publicación puede tener uno o mas autores.
+
+| Tipo |    Atributo    | Nulo | Descripción                             |
+| :--- | :------------: | :--: | :-------------------------------------- |
+| int  |       id       |  No  | Clave primaria                          |
+| int  | publicacion_id |  No  | Clave foránea de la tabla publicaciones |
+| int  |    autor_id    |  No  | Clave foránea de la tabla autores       |
