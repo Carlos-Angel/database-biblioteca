@@ -11,7 +11,12 @@ En este repositorio encontraras la documentación de una base de datos para la a
 - biblioteca.drawio (Diagrama ER de la base de datos).
 - biblioteca.md (documento explicativo de las tablas de la base de datos).
 
-## diagramas
+## Documentación
+
+- [biblioteca](biblioteca/biblioteca.md)
+- [control de seguridad](control-seguridad/control-seguridad.md)
+
+## Diagramas
 
 ### biblioteca
 
