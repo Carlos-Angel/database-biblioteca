@@ -1,6 +1,8 @@
 # Esquema: control-seguridad
 
-En este archivo se describen las tablas y sus átributos definidos en el esquema de control-seguridad.
+En este archivo se describen las tablas y sus atributos definidos en el esquema de control-seguridad.
+
+![](./control-seguridad.svg)
 
 - [Esquema: control-seguridad](#esquema-control-seguridad)
   - [Atributos obligatorios](#atributos-obligatorios)
