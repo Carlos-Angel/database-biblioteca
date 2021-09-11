@@ -2,15 +2,17 @@
 
 En este archivo se describen las tablas y sus átributos definidos en el esquema de biblioteca.
 
+![](./biblioteca.svg)
+
 - [Esquema: biblioteca](#esquema-biblioteca)
   - [Atributos obligatorios](#atributos-obligatorios)
 - [Tablas](#tablas)
-  - [areas_conocimientos](#areas_conocimientos)
-  - [tipos_publicaciones](#tipos_publicaciones)
-  - [autores](#autores)
-  - [editoriales](#editoriales)
-  - [publicaciones](#publicaciones)
-  - [publicaciones_autores](#publicaciones_autores)
+    - [areas_conocimientos](#areas_conocimientos)
+    - [tipos_publicaciones](#tipos_publicaciones)
+    - [autores](#autores)
+    - [editoriales](#editoriales)
+    - [publicaciones](#publicaciones)
+    - [publicaciones_autores](#publicaciones_autores)
 
 ## Atributos obligatorios
 

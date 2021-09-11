@@ -13,7 +13,7 @@ En este repositorio encontraras la documentación de una base de datos para la a
 
 ## Documentación
 
-- [biblioteca](biblioteca/biblioteca.md)
+- [biblioteca](biblioteca/README.md)
 - [control de seguridad](control-seguridad/control-seguridad.md)
 
 ## Diagramas
